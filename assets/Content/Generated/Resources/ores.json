@@ -1,0 +1,124 @@
+{
+    "Objects": [
+        {
+            "Class": "IcoGenerator",
+            "Images": [
+                {
+                    "Base": "T_Ore",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperOre"
+                },
+                {
+                    "AddMask": "T_GravelAdditive",
+                    "Base": "T_Gravel",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperOreGravel"
+                },
+                {
+                    "AddMask": [
+                        "T_impure_gravel_add",
+                        "T_GravelAdditive"
+                    ],
+                    "Base": "T_Gravel",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperImpureOreGravel"
+                },
+                {
+                    "AddMask": "T_impure_dust_add",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperOreDust"
+                },
+                {
+                    "Base": "T_Ore",
+                    "MulMask": "T_Iron",
+                    "NewName": "T_IronOre"
+                },
+                {
+                    "AddMask": "T_GravelAdditive",
+                    "Base": "T_Gravel",
+                    "MulMask": "T_Iron",
+                    "NewName": "T_IronOreGravel"
+                },
+                {
+                    "AddMask": [
+                        "T_impure_gravel_add",
+                        "T_GravelAdditive"
+                    ],
+                    "Base": "T_Gravel",
+                    "MulMask": "T_Iron",
+                    "NewName": "T_IronImpureOreGravel"
+                },
+                {
+                    "AddMask": "T_impure_dust_add",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Iron",
+                    "NewName": "T_IronOreDust"
+                },
+                {
+                    "Base": "T_Ore",
+                    "MulMask": "T_Uranium",
+                    "NewName": "T_UraniumOre"
+                },
+                {
+                    "AddMask": "T_GravelAdditive",
+                    "Base": "T_Gravel",
+                    "MulMask": "T_Uranium",
+                    "NewName": "T_UraniumOreGravel"
+                },
+                {
+                    "AddMask": [
+                        "T_impure_gravel_add",
+                        "T_GravelAdditive"
+                    ],
+                    "Base": "T_Gravel",
+                    "MulMask": "T_Uranium",
+                    "NewName": "T_UraniumImpureOreGravel"
+                },
+                {
+                    "AddMask": "T_impure_dust_add",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Uranium",
+                    "NewName": "T_UraniumOreDust"
+                },
+                {
+                    "Base": "T_Ore",
+                    "MulMask": "T_Aluminium",
+                    "NewName": "T_AluminiumOre"
+                },
+                {
+                    "AddMask": "T_GravelAdditive",
+                    "Base": "T_Gravel",
+                    "MulMask": "T_Aluminium",
+                    "NewName": "T_AluminiumOreGravel"
+                },
+                {
+                    "AddMask": [
+                        "T_impure_gravel_add",
+                        "T_GravelAdditive"
+                    ],
+                    "Base": "T_Gravel",
+                    "MulMask": "T_Aluminium",
+                    "NewName": "T_AluminiumImpureOreGravel"
+                },
+                {
+                    "AddMask": "T_impure_dust_add",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Aluminium",
+                    "NewName": "T_AluminiumOreDust"
+                },
+                {
+                    "Base": "T_Ore",
+                    "MulMask": "T_Coal",
+                    "NewName": "T_CoalOre"
+                },
+                {
+                    "Base": "T_Ore",
+                    "MulMask": "T_Clay",
+                    "NewName": "T_ClayOre"
+                }
+            ],
+            "Name": "OresIcoGenerator"
+        }
+    ]
+}

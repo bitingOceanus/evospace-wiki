@@ -1,0 +1,1151 @@
+{
+    "Objects": [
+        {
+            "Class": "RecipeDictionary",
+            "Name": "HandRecipeDictionary",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Clay"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "ClayBlock",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ClayBlock"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "StoneSurface"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Bricks",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Bricks"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "RedStoneSurface"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "RedBricks",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "RedBricks"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DarkStoneSurface"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "DarkBricks",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DarkBricks"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "GravelSurface"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "SandSurface",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "SandSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "StoneSurface"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "GravelSurface",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "GravelSurface"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "StoneSurface"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "StoneTiles",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "StoneTiles"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DarkStoneSurface"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "DarkTiles",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DarkTiles"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "RedStoneSurface"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "RedTiles",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "RedTiles"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Terracotta"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "TerracottaTiles",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "TerracottaTiles"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "TerracottaTiles"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "TerracottaBricks",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "TerracottaBricks"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Plank"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "CircuitBoard",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CircuitBoard"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "GoldIngot"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "GoldWire",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "Name": "GoldWire"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperIngot"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "CopperWire",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "Name": "CopperWire"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 6,
+                                "Name": "CopperWire"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CircuitBoard"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Circuit",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Circuit"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Silicon"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "Circuit"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "AdvancedCircuit",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AdvancedCircuit"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "SiliconWafer"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "AdvancedCircuit"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Processor",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Processor"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "Name": "QuantumCore"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "Processor"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "QuantumCircuit",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "QuantumCircuit"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "Name": "QuantumCircuit"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "Processor"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "QuantumProcessor",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "QuantumProcessor"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 6,
+                                "Name": "Plank"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "WoodenChest",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "WoodenChest"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Plank"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "WoodenPlanks",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "WoodenPlanks"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 6,
+                                "Name": "CopperParts"
+                            },
+                            {
+                                "Count": 2,
+                                "Name": "CopperPlate"
+                            },
+                            {
+                                "Count": 4,
+                                "Name": "CopperPipe"
+                            },
+                            {
+                                "Count": 10,
+                                "Name": "Circuit"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Steampack",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Steampack"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 10,
+                                "Name": "AluminiumParts"
+                            },
+                            {
+                                "Count": 3,
+                                "Name": "AluminiumPlate"
+                            },
+                            {
+                                "Count": 6,
+                                "Name": "AluminiumPipe"
+                            },
+                            {
+                                "Count": 10,
+                                "Name": "AdvancedCircuit"
+                            },
+                            {
+                                "Count": 2,
+                                "Name": "AluminiumElectricEngine"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Jetpack",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Jetpack"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Plank"
+                            },
+                            {
+                                "Count": 10,
+                                "Name": "Organics"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Torch",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Torch"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 10,
+                                "Name": "StainlessSteelParts"
+                            },
+                            {
+                                "Count": 3,
+                                "Name": "StainlessSteelPlate"
+                            },
+                            {
+                                "Count": 6,
+                                "Name": "StainlessSteelPipe"
+                            },
+                            {
+                                "Count": 10,
+                                "Name": "Processor"
+                            },
+                            {
+                                "Count": 2,
+                                "Name": "StainlessSteelEngine"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "AdvancedJetpack",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AdvancedJetpack"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "SteelPlate"
+                            },
+                            {
+                                "Count": 2,
+                                "Name": "AdvancedCircuit"
+                            },
+                            {
+                                "Count": 5,
+                                "Name": "CopperConnector"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Scanner",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Scanner"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 20,
+                                "Name": "HardMetalParts"
+                            },
+                            {
+                                "Count": 2,
+                                "Name": "HardMetalPlate"
+                            },
+                            {
+                                "Count": 6,
+                                "Name": "HardMetalPipe"
+                            },
+                            {
+                                "Count": 10,
+                                "Name": "QuantumProcessor"
+                            },
+                            {
+                                "Count": 4,
+                                "Name": "Catalyst"
+                            },
+                            {
+                                "Count": 8,
+                                "Name": "HardMetalElectricEngine"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "AntigravityUnit",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AntigravityUnit"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Log"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Plank",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "Name": "Plank"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "Name": "Plank"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Chair",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Chair"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Chair"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CopperPlate"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "CopperChair",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperChair"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "Name": "Plank"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Ladder",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Ladder"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 8,
+                                "Name": "Plank"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Door",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Door"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "Name": "Glass"
+                            },
+                            {
+                                "Count": 2,
+                                "Name": "Plank"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Window",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Window"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 2,
+                                "Name": "Glass"
+                            },
+                            {
+                                "Count": 2,
+                                "Name": "Plastic"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "PlasticWindow",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "PlasticWindow"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 6,
+                                "Name": "Plank"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Table",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Table"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 8,
+                                "Name": "Plank"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Bed",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Bed"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 4,
+                                "Name": "Plank"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Rack",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Rack"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "WoodenPlanks"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "WoodenStairs",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "WoodenStairs"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Bricks"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Stairs",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Stairs"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 3,
+                                "Name": "Plank"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Fence",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Fence"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 3,
+                                "Name": "SteelParts"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "SteelFence",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "SteelFence"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 3,
+                                "Name": "StainlessSteelParts"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "StainlessSteelFence",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "StainlessSteelFence"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "SteelPipe"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "SteelLamp"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "Flashlight",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Flashlight"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Concrete"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "ConcreteTiles",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ConcreteTiles"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Concrete"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "ConcreteSmallTiles",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ConcreteSmallTiles"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Concrete"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "ConcreteBricks",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ConcreteBricks"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ReinforcedConcrete"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "ReinforcedConcreteTiles",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ReinforcedConcreteTiles"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ReinforcedConcrete"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "ReinforcedConcreteSmallTiles",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ReinforcedConcreteSmallTiles"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ReinforcedConcrete"
+                            }
+                        ]
+                    },
+                    "Locked": true,
+                    "Name": "ReinforcedConcreteBricks",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ReinforcedConcreteBricks"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                }
+            ]
+        }
+    ]
+}

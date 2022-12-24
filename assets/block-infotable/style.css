@@ -1,0 +1,42 @@
+.card {
+  width: 250px;
+  color: #333;
+  border: 1px solid #333;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgb(0, 0, 0, 0.5);
+  float: right;
+}
+
+.card__header {
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  background-color: bisque;
+}
+
+.card__img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  image-rendering: pixelated;
+  background: #333;
+}
+
+.table {
+  padding: 10px;
+}
+
+.table__row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table__row:not(:last-child) {
+  margin-bottom: 5px;
+}
+
+.table__row *:first-child {
+  font-weight: bold;
+}

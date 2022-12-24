@@ -1,0 +1,20 @@
+{
+    "Objects": [
+        {
+            "Class": "IcoGenerator",
+            "Images": [
+                {
+                    "Base": "T_JetpackBase",
+                    "MulMask": "T_Aluminium",
+                    "NewName": "T_Jetpack"
+                },
+                {
+                    "Base": "T_JetpackBase",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_Steampack"
+                }
+            ],
+            "Name": "MiscIcoGenerator"
+        }
+    ]
+}

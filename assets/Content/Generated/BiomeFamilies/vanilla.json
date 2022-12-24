@@ -1,0 +1,94 @@
+{
+    "Objects": [
+        {
+            "ChildFrequency": 0.016,
+            "Childs": [
+                "PrairieDryPlainsBiome",
+                "PrairieDryHillsBiome",
+                "PrairiePlainsBiome"
+            ],
+            "Class": "BiomeFamily",
+            "Name": "PrairieBiomeFamily"
+        },
+        {
+            "ChildFrequency": 0.016,
+            "Childs": [
+                "DesertBiome",
+                "MensaeBiome"
+            ],
+            "Class": "BiomeFamily",
+            "Name": "SandBiomeFamily"
+        },
+        {
+            "ChildFrequency": 0.016,
+            "Childs": [
+                "DenseForestBiome",
+                "PlainsBiome",
+                "BushlandBiome"
+            ],
+            "Class": "BiomeFamily",
+            "Name": "ForestBiomeFamily"
+        },
+        {
+            "ChildFrequency": 0.016,
+            "Childs": [
+                "PineForestBiome",
+                "DensePineForestBiome"
+            ],
+            "Class": "BiomeFamily",
+            "Name": "PineForestBiomeFamily"
+        },
+        {
+            "ChildFrequency": 0.016,
+            "Childs": [
+                "SeaBiome",
+                "IslesBiome",
+                "SeaGrassBiome",
+                "EmptySeaBiome"
+            ],
+            "Class": "BiomeFamily",
+            "Name": "SeaBiomeFamily"
+        },
+        {
+            "ChildFrequency": 0.016,
+            "Childs": [
+                "VolcanoBiome",
+                "BrokenLandBiome"
+            ],
+            "Class": "BiomeFamily",
+            "Name": "VolcanicBiomeFamily"
+        },
+        {
+            "ChildFrequency": 0.016,
+            "Childs": [
+                "PeatBiome",
+                "BogBiome",
+                "BogForestBiome",
+                "ClayBiome"
+            ],
+            "Class": "BiomeFamily",
+            "Name": "SwampBiomeFamily"
+        },
+        {
+            "ChildFrequency": 0.016,
+            "Childs": [
+                "PlainsBiome",
+                "RedPlainsBiome",
+                "WhitePlainsBiome",
+                "YellowPlainsBiome"
+            ],
+            "Class": "BiomeFamily",
+            "Name": "PlainBiomeFamily"
+        },
+        {
+            "ChildFrequency": 0.016,
+            "Childs": [
+                "SnowBiome",
+                "SnowGrassBiome",
+                "SnowForestBiome"
+            ],
+            "Class": "BiomeFamily",
+            "Name": "SnowBiomeFamily"
+        }
+    ]
+}

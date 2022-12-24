@@ -1,0 +1,1572 @@
+{
+    "Objects": [
+        {
+            "Chapter": "RoadToSteel",
+            "Class": "StaticQuest",
+            "Item": "IronOre",
+            "Name": "IronOre",
+            "QuestTextKeys": [
+                "Collect",
+                "IronOre"
+            ],
+            "Sorter": 0
+        },
+        {
+            "Chapter": "RoadToSteel",
+            "Class": "StaticQuest",
+            "Item": "IronImpureOreGravel",
+            "Name": "IronImpureOreGravel2",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 0.1
+        },
+        {
+            "Chapter": "RoadToSteel",
+            "Class": "StaticQuest",
+            "Item": "IronOreGravel",
+            "Name": "IronOreGravel2",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 0.1
+        },
+        {
+            "Chapter": "RoadToSteel",
+            "Class": "StaticQuest",
+            "Item": "IronImpureOreDust",
+            "Name": "IronImpureOreDust2",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 0.1
+        },
+        {
+            "Chapter": "RoadToSteel",
+            "Class": "StaticQuest",
+            "Item": "CopperCokeOven",
+            "Name": "CokeOven",
+            "QuestTextKeys": [
+                "Collect",
+                "CokeOven"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "RoadToSteel",
+            "Class": "StaticQuest",
+            "Item": "CopperBlastFurnace",
+            "Name": "BlastFurnace",
+            "QuestTextKeys": [
+                "Collect",
+                "BlastFurnace"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "RoadToSteel",
+            "Class": "StaticQuest",
+            "Item": "CoalPiece",
+            "Name": "CoalPiece",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement",
+                "CoalPiece"
+            ],
+            "Sorter": 3
+        },
+        {
+            "Chapter": "RoadToSteel",
+            "Class": "StaticQuest",
+            "Item": "CokePiece",
+            "Name": "CokePiece",
+            "QuestTextKeys": [
+                "Collect",
+                "CokePiece"
+            ],
+            "Sorter": 3.5
+        },
+        {
+            "Chapter": "RoadToSteel",
+            "Class": "StaticQuest",
+            "Item": "CoalDust",
+            "Name": "CoalDust",
+            "QuestTextKeys": [
+                "Collect",
+                "CoalDust"
+            ],
+            "Sorter": 4
+        },
+        {
+            "Chapter": "RoadToSteel",
+            "Class": "StaticQuest",
+            "Item": "CokeDust",
+            "Name": "CokeDust",
+            "QuestTextKeys": [
+                "Collect",
+                "CokeDust"
+            ],
+            "Sorter": 4.5
+        },
+        {
+            "Achievement": "SteelAge",
+            "Chapter": "RoadToSteel",
+            "Class": "StaticQuest",
+            "Item": "SteelIngot",
+            "Name": "SteelAge",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement"
+            ],
+            "Sorter": 5
+        },
+        {
+            "Achievement": "AluminiumAge",
+            "Chapter": "Other",
+            "Class": "StaticQuest",
+            "Item": "AluminiumIngot",
+            "Name": "AluminiumAge",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement"
+            ]
+        },
+        {
+            "Achievement": "TitaniumOre",
+            "Chapter": "Other",
+            "Class": "StaticQuest",
+            "Item": "TitaniumOre",
+            "Name": "TitaniumOre",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement"
+            ]
+        },
+        {
+            "Achievement": "TitaniumAge",
+            "Chapter": "Other",
+            "Class": "StaticQuest",
+            "Item": "TitaniumIngot",
+            "Name": "TitaniumAge",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement"
+            ]
+        },
+        {
+            "Achievement": "StainlessSteelAge",
+            "Chapter": "Other",
+            "Class": "StaticQuest",
+            "Item": "StainlessSteelIngot",
+            "Name": "StainlessSteelAge",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement"
+            ]
+        },
+        {
+            "Achievement": "IronOre",
+            "Chapter": "Other",
+            "Class": "StaticQuest",
+            "Item": "IronOre",
+            "Name": "IronOreAchievement",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement"
+            ]
+        },
+        {
+            "Achievement": "AluminiumOre",
+            "Chapter": "Other",
+            "Class": "StaticQuest",
+            "Item": "AluminiumOre",
+            "Name": "AluminiumOreAchievement",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement"
+            ]
+        },
+        {
+            "Achievement": "GoldOre",
+            "Chapter": "Other",
+            "Class": "StaticQuest",
+            "Item": "GoldOre",
+            "Name": "GoldOreAchievement",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement"
+            ]
+        },
+        {
+            "Achievement": "UraniumOre",
+            "Chapter": "Other",
+            "Class": "StaticQuest",
+            "Item": "UraniumOre",
+            "Name": "UraniumOreAchievement",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement"
+            ]
+        },
+        {
+            "Achievement": "CoalOre",
+            "Chapter": "Other",
+            "Class": "StaticQuest",
+            "Item": "CoalPiece",
+            "Name": "CoalOreAchievement",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement"
+            ]
+        },
+        {
+            "Achievement": "Log",
+            "Chapter": "FirstSteps",
+            "Class": "StaticQuest",
+            "Item": "Log",
+            "Name": "Log",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 0
+        },
+        {
+            "Chapter": "FirstSteps",
+            "Class": "StaticQuest",
+            "Item": "StoneFurnace",
+            "Name": "Furnace",
+            "QuestTextKeys": [
+                "Collect",
+                "Furnace"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "FirstSteps",
+            "Class": "StaticQuest",
+            "Item": "StoneDryer",
+            "Name": "Dryer",
+            "QuestTextKeys": [
+                "Collect",
+                "Dryer"
+            ],
+            "Sorter": 1.5
+        },
+        {
+            "Chapter": "FirstSteps",
+            "Class": "StaticQuest",
+            "Item": "StoneSmelter",
+            "Name": "Smelter",
+            "QuestTextKeys": [
+                "Collect",
+                "Smelter"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "FirstSteps",
+            "Class": "StaticQuest",
+            "Item": "Bed",
+            "Name": "Bed",
+            "QuestTextKeys": [
+                "Collect",
+                "Bed"
+            ],
+            "Sorter": 2.5
+        },
+        {
+            "Achievement": "CopperOre",
+            "Chapter": "FirstSteps",
+            "Class": "StaticQuest",
+            "Item": "CopperOre",
+            "Name": "CopperOre",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement",
+                "CopperOre"
+            ],
+            "Sorter": 3
+        },
+        {
+            "Achievement": "CopperAge",
+            "Chapter": "FirstSteps",
+            "Class": "StaticQuest",
+            "Item": "CopperIngot",
+            "Name": "CopperAge",
+            "QuestTextKeys": [
+                "Collect",
+                "Achievement"
+            ],
+            "Sorter": 4
+        },
+        {
+            "Chapter": "Farming",
+            "Class": "StaticQuest",
+            "Item": "OrganicsPiece",
+            "Name": "Organics",
+            "QuestTextKeys": [
+                "Collect",
+                "Organics"
+            ],
+            "Sorter": 0
+        },
+        {
+            "Chapter": "Farming",
+            "Class": "StaticQuest",
+            "Item": "CopperFarm",
+            "Name": "Farm",
+            "QuestTextKeys": [
+                "Collect",
+                "BambooFarm"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "Steam",
+            "Class": "StaticQuest",
+            "Item": "SteelBoiler",
+            "Name": "Boiler",
+            "QuestTextKeys": [
+                "Collect",
+                "Boiler"
+            ],
+            "Sorter": 0.5
+        },
+        {
+            "Chapter": "Steam",
+            "Class": "StaticQuest",
+            "Item": "SteelPump",
+            "Name": "Pump",
+            "QuestTextKeys": [
+                "Collect",
+                "Pump"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "Steam",
+            "Class": "StaticQuest",
+            "Item": "SteelPipe",
+            "Name": "Pipe",
+            "QuestTextKeys": [
+                "Collect",
+                "Pipe"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "Refining",
+            "Class": "StaticQuest",
+            "Item": "CopperAutomaticHammer",
+            "Name": "AutomaticHammer",
+            "QuestTextKeys": [
+                "Collect",
+                "AutomaticHammer",
+                "RefiningMachine"
+            ],
+            "Sorter": 0
+        },
+        {
+            "Chapter": "Refining",
+            "Class": "StaticQuest",
+            "Item": "CopperPlate",
+            "Name": "CopperPlate",
+            "QuestTextKeys": [
+                "Collect",
+                "Plate"
+            ],
+            "Sorter": 0.5
+        },
+        {
+            "Chapter": "Refining",
+            "Class": "StaticQuest",
+            "Item": "CopperImpureOreGravel",
+            "Name": "CopperImpureOreGravel",
+            "QuestTextKeys": [
+                "Collect",
+                "Refined"
+            ],
+            "Sorter": 0.5
+        },
+        {
+            "Chapter": "Refining",
+            "Class": "StaticQuest",
+            "Item": "SteelOreWasher",
+            "Name": "Washer",
+            "QuestTextKeys": [
+                "Collect",
+                "OreWasher",
+                "RefiningMachine"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "Refining",
+            "Class": "StaticQuest",
+            "Item": "CopperOreGravel",
+            "Name": "CopperOreGravel",
+            "QuestTextKeys": [
+                "Collect",
+                "Refined"
+            ],
+            "Sorter": 1.5
+        },
+        {
+            "Chapter": "Refining",
+            "Class": "StaticQuest",
+            "Item": "CopperMacerator",
+            "Name": "Macerator",
+            "QuestTextKeys": [
+                "Collect",
+                "Macerator",
+                "RefiningMachine"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "Refining",
+            "Class": "StaticQuest",
+            "Item": "CopperImpureOreDust",
+            "Name": "CopperImpureOreDust",
+            "QuestTextKeys": [
+                "Collect",
+                "Refined"
+            ],
+            "Sorter": 2.5
+        },
+        {
+            "Chapter": "FastTravel",
+            "Class": "StaticQuest",
+            "Item": "Steampack",
+            "Name": "Steampack",
+            "QuestTextKeys": [
+                "Collect",
+                "Jumppack"
+            ],
+            "Sorter": 0
+        },
+        {
+            "Chapter": "FastTravel",
+            "Class": "StaticQuest",
+            "Item": "Jetpack",
+            "Name": "Jetpack",
+            "QuestTextKeys": [
+                "Collect",
+                "Jumppack"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "FastTravel",
+            "Class": "StaticQuest",
+            "Item": "AdvancedJetpack",
+            "Name": "AdvancedJetpack",
+            "QuestTextKeys": [
+                "Collect",
+                "Jumppack"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "FastTravel",
+            "Class": "StaticQuest",
+            "Item": "AntigravityUnit",
+            "Name": "AntigravityUnit",
+            "QuestTextKeys": [
+                "Collect",
+                "Jumppack"
+            ],
+            "Sorter": 3
+        },
+        {
+            "Chapter": "Logistics",
+            "Class": "StaticQuest",
+            "Item": "CopperRobotArm",
+            "Name": "CopperRobotArm",
+            "QuestTextKeys": [
+                "Collect",
+                "RobotArm"
+            ],
+            "Sorter": 0
+        },
+        {
+            "Chapter": "Logistics",
+            "Class": "StaticQuest",
+            "Item": "SteelRobotArm",
+            "Name": "SteelRobotArm",
+            "QuestTextKeys": [
+                "Collect",
+                "RobotArm"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "Logistics",
+            "Class": "StaticQuest",
+            "Item": "SteelFilteringRobotArm",
+            "Name": "SteelFilteringRobotArm",
+            "QuestTextKeys": [
+                "Collect",
+                "FilteringRobotArm"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "Logistics",
+            "Class": "StaticQuest",
+            "Item": "CopperConveyor",
+            "Name": "CopperConveyor",
+            "QuestTextKeys": [
+                "Collect",
+                "Conveyor"
+            ],
+            "Sorter": 3
+        },
+        {
+            "Chapter": "Logistics",
+            "Class": "StaticQuest",
+            "Item": "CopperConveyorSplitter",
+            "Name": "CopperConveyorSplitter",
+            "QuestTextKeys": [
+                "Collect",
+                "ConveyorSplitter"
+            ],
+            "Sorter": 4
+        },
+        {
+            "Chapter": "Logistics",
+            "Class": "StaticQuest",
+            "Item": "SteelConveyor",
+            "Name": "SteelConveyor",
+            "QuestTextKeys": [
+                "Collect",
+                "Conveyor"
+            ],
+            "Sorter": 5
+        },
+        {
+            "Chapter": "Logistics",
+            "Class": "StaticQuest",
+            "Item": "SteelConveyorSplitter",
+            "Name": "SteelConveyorSplitter",
+            "QuestTextKeys": [
+                "Collect",
+                "ConveyorSplitter"
+            ],
+            "Sorter": 6
+        },
+        {
+            "Chapter": "Logistics",
+            "Class": "StaticQuest",
+            "Item": "CopperDeployer",
+            "Name": "CopperDeployer",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 7
+        },
+        {
+            "Chapter": "Logistics",
+            "Class": "StaticQuest",
+            "Item": "SteelDeployer",
+            "Name": "SteelDeployer",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 8
+        },
+        {
+            "Chapter": "FasterSteel",
+            "Class": "StaticQuest",
+            "Item": "SteelCokeOven",
+            "Name": "SteelCokeOven",
+            "QuestTextKeys": [
+                "Collect",
+                "CokeOven"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "FasterSteel",
+            "Class": "StaticQuest",
+            "Item": "CokeDust",
+            "Name": "CokeDustFasterS",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1.1
+        },
+        {
+            "Chapter": "FasterSteel",
+            "Class": "StaticQuest",
+            "Item": "IronDust",
+            "Name": "IronDustFasterS",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1.2
+        },
+        {
+            "Chapter": "FasterSteel",
+            "Class": "StaticQuest",
+            "Item": "SteelAlloySmelter",
+            "Name": "SteelAlloySmelter",
+            "QuestTextKeys": [
+                "Collect",
+                "AlloySmelter"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "FasterSteel",
+            "Class": "StaticQuest",
+            "Item": "CastIronIngot",
+            "Name": "CastIronIngot",
+            "QuestTextKeys": [
+                "Collect",
+                "CastIron"
+            ],
+            "Sorter": 3
+        },
+        {
+            "Chapter": "FasterSteel",
+            "Class": "StaticQuest",
+            "Item": "CastIronDust",
+            "Name": "CastIronDust",
+            "QuestTextKeys": [
+                "Collect",
+                "CastIron"
+            ],
+            "Sorter": 3.1
+        },
+        {
+            "Chapter": "FasterSteel",
+            "Class": "StaticQuest",
+            "Item": "SteelArcFurnace",
+            "Name": "SteelArcFurnace",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 4
+        },
+        {
+            "Chapter": "FasterRefining",
+            "Class": "StaticQuest",
+            "Item": "SteelAutomaticHammer",
+            "Name": "SteelAutomaticHammer",
+            "QuestTextKeys": [
+                "Collect",
+                "HigherLevel"
+            ],
+            "Sorter": 0
+        },
+        {
+            "Chapter": "FasterRefining",
+            "Class": "StaticQuest",
+            "Item": "SteelPlate",
+            "Name": "SteelPlate",
+            "QuestTextKeys": [
+                "Collect",
+                "Plate"
+            ],
+            "Sorter": 0.5
+        },
+        {
+            "Chapter": "FasterRefining",
+            "Class": "StaticQuest",
+            "Item": "IronImpureOreGravel",
+            "Name": "IronImpureOreGravel",
+            "QuestTextKeys": [
+                "Collect",
+                "Refined"
+            ],
+            "Sorter": 0.5
+        },
+        {
+            "Chapter": "FasterRefining",
+            "Class": "StaticQuest",
+            "Item": "SteelOreWasher",
+            "Name": "SteelWasher",
+            "QuestTextKeys": [
+                "Collect",
+                "HigherLevel"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "FasterRefining",
+            "Class": "StaticQuest",
+            "Item": "IronOreGravel",
+            "Name": "IronOreGravel",
+            "QuestTextKeys": [
+                "Collect",
+                "Refined"
+            ],
+            "Sorter": 1.5
+        },
+        {
+            "Chapter": "FasterRefining",
+            "Class": "StaticQuest",
+            "Item": "SteelMacerator",
+            "Name": "SteelMacerator",
+            "QuestTextKeys": [
+                "Collect",
+                "HigherLevel"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "FasterRefining",
+            "Class": "StaticQuest",
+            "Item": "IronImpureOreDust",
+            "Name": "IronImpureOreDust",
+            "QuestTextKeys": [
+                "Collect",
+                "Refined"
+            ],
+            "Sorter": 2.5
+        },
+        {
+            "Chapter": "RoadToAluminium",
+            "Class": "StaticQuest",
+            "Item": "AluminiumOre",
+            "Name": "AluminiumOre",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 0
+        },
+        {
+            "Chapter": "RoadToAluminium",
+            "Class": "StaticQuest",
+            "Item": "AluminiumImpureOreGravel",
+            "Name": "AluminiumImpureOreGravel",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 0.1
+        },
+        {
+            "Chapter": "RoadToAluminium",
+            "Class": "StaticQuest",
+            "Item": "AluminiumOreGravel",
+            "Name": "AluminiumOreGravel",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 0.1
+        },
+        {
+            "Chapter": "RoadToAluminium",
+            "Class": "StaticQuest",
+            "Item": "AluminiumImpureOreDust",
+            "Name": "AluminiumImpureOreDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 0.1
+        },
+        {
+            "Chapter": "RoadToAluminium",
+            "Class": "StaticQuest",
+            "Item": "AluminiumOxideDust",
+            "Name": "AluminiumOxideDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 0.1
+        },
+        {
+            "Chapter": "RoadToAluminium",
+            "Class": "StaticQuest",
+            "Item": "SteelAlloySmelter",
+            "Name": "SteelAlloySmelterAlum",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "RoadToAluminium",
+            "Class": "StaticQuest",
+            "Item": "AluminiumCarbideIngot",
+            "Name": "AluminiumCarbideIngot",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1.5
+        },
+        {
+            "Chapter": "RoadToAluminium",
+            "Class": "StaticQuest",
+            "Item": "AluminiumCarbideDust",
+            "Name": "AluminiumCarbideDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 2.5
+        },
+        {
+            "Chapter": "RoadToAluminium",
+            "Class": "StaticQuest",
+            "Item": "SteelArcFurnace",
+            "Name": "SteelArcFurnaceAlum",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 3
+        },
+        {
+            "Chapter": "RoadToAluminium",
+            "Class": "StaticQuest",
+            "Item": "AluminiumIngot",
+            "Name": "AluminiumIngot",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 4
+        },
+        {
+            "Chapter": "AdvancedLogistics",
+            "Class": "StaticQuest",
+            "Item": "CopperBufferChest",
+            "Name": "CopperBufferChest",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 0
+        },
+        {
+            "Chapter": "AdvancedLogistics",
+            "Class": "StaticQuest",
+            "Item": "SteelBufferChest",
+            "Name": "SteelBufferChest",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "AdvancedLogistics",
+            "Class": "StaticQuest",
+            "Item": "AluminiumBufferChest",
+            "Name": "AluminiumBufferChest",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "AdvancedLogistics",
+            "Class": "StaticQuest",
+            "Item": "AluminiumDeployer",
+            "Name": "AluminiumDeployer",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 4
+        },
+        {
+            "Chapter": "AdvancedLogistics",
+            "Class": "StaticQuest",
+            "Item": "AluminiumRobotArm",
+            "Name": "AluminiumRobotArm",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 5
+        },
+        {
+            "Chapter": "AdvancedLogistics",
+            "Class": "StaticQuest",
+            "Item": "AluminiumFilteringRobotArm",
+            "Name": "AluminiumFilteringRobotArm",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 6
+        },
+        {
+            "Chapter": "AdvancedLogistics",
+            "Class": "StaticQuest",
+            "Item": "AluminiumPneumaticPipe",
+            "Name": "AluminiumPneumaticPipe",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 7
+        },
+        {
+            "Chapter": "AdvancedLogistics",
+            "Class": "StaticQuest",
+            "Item": "AluminiumPneumaticInput",
+            "Name": "AluminiumPneumaticInput",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 8
+        },
+        {
+            "Chapter": "AdvancedLogistics",
+            "Class": "StaticQuest",
+            "Item": "AluminiumConveyor",
+            "Name": "AluminiumConveyor",
+            "QuestTextKeys": [
+                "Collect",
+                "Conveyor"
+            ],
+            "Sorter": 9
+        },
+        {
+            "Chapter": "AdvancedLogistics",
+            "Class": "StaticQuest",
+            "Item": "AluminiumConveyorSplitter",
+            "Name": "AluminiumConveyorSplitter",
+            "QuestTextKeys": [
+                "Collect",
+                "ConveyorSplitter"
+            ],
+            "Sorter": 10
+        },
+        {
+            "Chapter": "RoadToSS",
+            "Class": "StaticQuest",
+            "Item": "ChromeOxideDust",
+            "Name": "ChromeOxideDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9.6
+        },
+        {
+            "Chapter": "RoadToSS",
+            "Class": "StaticQuest",
+            "Item": "AluminothermicChromeDust",
+            "Name": "AluminothermicChromeDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9.7
+        },
+        {
+            "Chapter": "RoadToSS",
+            "Class": "StaticQuest",
+            "Item": "AluminiumSolidFurnace",
+            "Name": "AluminiumSolidFurnace",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9.8
+        },
+        {
+            "Chapter": "RoadToSS",
+            "Class": "StaticQuest",
+            "Item": "ChromeDust",
+            "Name": "ChromeDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9.85
+        },
+        {
+            "Chapter": "RoadToSS",
+            "Class": "StaticQuest",
+            "Item": "IronDust",
+            "Name": "IronDustSS",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9.9
+        },
+        {
+            "Chapter": "RoadToSS",
+            "Class": "StaticQuest",
+            "Item": "NickelDust",
+            "Name": "NickelDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9.9
+        },
+        {
+            "Chapter": "RoadToSS",
+            "Class": "StaticQuest",
+            "Item": "AluminiumMixer",
+            "Name": "AluminiumMixer",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9.95
+        },
+        {
+            "Chapter": "RoadToSS",
+            "Class": "StaticQuest",
+            "Item": "StainlessSteelDust",
+            "Name": "StainlessSteelDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 10
+        },
+        {
+            "Chapter": "RoadToSS",
+            "Class": "StaticQuest",
+            "Item": "AluminiumArcFurnace",
+            "Name": "AluminiumArcFurnace",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 11
+        },
+        {
+            "Chapter": "RoadToSS",
+            "Class": "StaticQuest",
+            "Item": "StainlessSteelIngot",
+            "Name": "StainlessSteelIngot",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 12
+        },
+        {
+            "Chapter": "HeatTransferring",
+            "Class": "StaticQuest",
+            "Item": "StainlessSteelHeatExchanger",
+            "Name": "StainlessSteelHeatExchanger",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "HeatTransferring",
+            "Class": "StaticQuest",
+            "Item": "StainlessSteelInverseHeatExchanger",
+            "Name": "StainlessSteelInverseHeatExchanger",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "HeatTransferring",
+            "Class": "StaticQuest",
+            "Item": "StainlessSteelRadiator",
+            "Name": "StainlessSteelRadiator",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 3
+        },
+        {
+            "Chapter": "HeatTransferring",
+            "Class": "StaticQuest",
+            "Item": "NakCoolantDust",
+            "Name": "NakCoolantDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9.45
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "CokeDust",
+            "Name": "CokeDustTit",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "TitaniumOxideDust",
+            "Name": "TitaniumOxideDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1.1
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "StainlessSteelAlloySmelter",
+            "Name": "StainlessSteelAlloySmelter",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1.2
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "PreparedTitaniumOxideDust",
+            "Name": "PreparedTitaniumOxideDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1.3
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "ManganeseOxideDust",
+            "Name": "ManganeseOxideDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 3
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "AluminothermicManganeseDust",
+            "Name": "AluminothermicManganeseDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 3.1
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "StainlessSteelSolidFurnace",
+            "Name": "StainlessSteelSolidFurnace",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 3.2
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "ManganeseDust",
+            "Name": "ManganeseDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 3.3
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "SaltDust",
+            "Name": "SaltDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 7
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "StainlessSteelChemReactor",
+            "Name": "StainlessSteelChemReactor",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 8
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "TitaniumSponge",
+            "Name": "TitaniumSponge",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9.4
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "StainlessSteelInductionFurnace",
+            "Name": "StainlessSteelInductionFurnace",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9.5
+        },
+        {
+            "Chapter": "RoadToTitanium",
+            "Class": "StaticQuest",
+            "Item": "TitaniumIngot",
+            "Name": "TitaniumIngot",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9.6
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "TungstenOxideDust",
+            "Name": "TungstenOxideDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "TitaniumInductionFurnace",
+            "Name": "TitaniumInductionFurnace2",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "HotTungstenIngot",
+            "Name": "HotTungstenIngot",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 3
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "TitaniumChemReactor",
+            "Name": "TitaniumChemReactor",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 4
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "TungstenCarbideIngot",
+            "Name": "TungstenCarbideIngot",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 5
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "TungstenCarbideDust",
+            "Name": "TungstenCarbideDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 6.5
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "CobaltOxideDust",
+            "Name": "CobaltOxideDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 6.55
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "TitaniumChemReactor",
+            "Name": "TitaniumChemReactor2",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 6.555
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "CobaltDust",
+            "Name": "CobaltDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 6.6
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "TitaniumMixer",
+            "Name": "TitaniumMixer",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 6.9
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "HardMetalDust",
+            "Name": "HardMetalDust",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 7
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "TitaniumInductionFurnace",
+            "Name": "TitaniumInductionFurnace",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 7.5
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "HotHardMetalIngot",
+            "Name": "HotHardMetalIngot",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 8
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "TitaniumFreezer",
+            "Name": "TitaniumFreezer",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9
+        },
+        {
+            "Chapter": "RoadToHardMetal",
+            "Class": "StaticQuest",
+            "Item": "HardMetalIngot",
+            "Name": "HardMetalIngot",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 10
+        },
+        {
+            "Chapter": "Woodwork",
+            "Class": "StaticQuest",
+            "Item": "Door",
+            "Name": "Door",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 0
+        },
+        {
+            "Chapter": "Woodwork",
+            "Class": "StaticQuest",
+            "Item": "Chair",
+            "Name": "Chair",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "Woodwork",
+            "Class": "StaticQuest",
+            "Item": "Fence",
+            "Name": "Fence",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "Woodwork",
+            "Class": "StaticQuest",
+            "Item": "Ladder",
+            "Name": "Ladder",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 3
+        },
+        {
+            "Chapter": "Woodwork",
+            "Class": "StaticQuest",
+            "Item": "Rack",
+            "Name": "Rack",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 4
+        },
+        {
+            "Chapter": "Woodwork",
+            "Class": "StaticQuest",
+            "Item": "Table",
+            "Name": "Table",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 5
+        },
+        {
+            "Chapter": "Woodwork",
+            "Class": "StaticQuest",
+            "Item": "Torch",
+            "Name": "Torch",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 6
+        },
+        {
+            "Chapter": "Woodwork",
+            "Class": "StaticQuest",
+            "Item": "WoodenChest",
+            "Name": "WoodenChest",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 7
+        },
+        {
+            "Chapter": "Woodwork",
+            "Class": "StaticQuest",
+            "Item": "WoodenStairs",
+            "Name": "WoodenStairs",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 7
+        },
+        {
+            "Chapter": "Woodwork",
+            "Class": "StaticQuest",
+            "Item": "Window",
+            "Name": "Window",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 8
+        },
+        {
+            "Chapter": "Woodwork",
+            "Class": "StaticQuest",
+            "Item": "WoodenPlanks",
+            "Name": "WoodenPlanks",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9
+        },
+        {
+            "Chapter": "Decorative",
+            "Class": "StaticQuest",
+            "Item": "DarkBricks",
+            "Name": "DarkBricks",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 0
+        },
+        {
+            "Chapter": "Decorative",
+            "Class": "StaticQuest",
+            "Item": "Bricks",
+            "Name": "Bricks",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 1
+        },
+        {
+            "Chapter": "Decorative",
+            "Class": "StaticQuest",
+            "Item": "RedBricks",
+            "Name": "RedBricks",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 2
+        },
+        {
+            "Chapter": "Decorative",
+            "Class": "StaticQuest",
+            "Item": "RedStoneTiles",
+            "Name": "RedStoneTiles",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 3
+        },
+        {
+            "Chapter": "Decorative",
+            "Class": "StaticQuest",
+            "Item": "Terracotta",
+            "Name": "Terracotta",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 4
+        },
+        {
+            "Chapter": "Decorative",
+            "Class": "StaticQuest",
+            "Item": "TerracottaTiles",
+            "Name": "TerracottaTiles",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 5
+        },
+        {
+            "Chapter": "Decorative",
+            "Class": "StaticQuest",
+            "Item": "DarkStoneTiles",
+            "Name": "DarkStoneTiles",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 6
+        },
+        {
+            "Chapter": "Decorative",
+            "Class": "StaticQuest",
+            "Item": "Column",
+            "Name": "Column",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 7
+        },
+        {
+            "Chapter": "Decorative",
+            "Class": "StaticQuest",
+            "Item": "FluetedColumn",
+            "Name": "FluetedColumn",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 8
+        },
+        {
+            "Chapter": "Decorative",
+            "Class": "StaticQuest",
+            "Item": "Stairs",
+            "Name": "Stairs",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 9
+        },
+        {
+            "Chapter": "Decorative",
+            "Class": "StaticQuest",
+            "Item": "StoneTiles",
+            "Name": "StoneTiles",
+            "QuestTextKeys": [
+                "Collect"
+            ],
+            "Sorter": 10
+        }
+    ]
+}

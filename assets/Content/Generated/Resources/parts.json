@@ -1,0 +1,736 @@
+{
+    "Objects": [
+        {
+            "Class": "IcoGenerator",
+            "Images": [
+                {
+                    "AddMask": "T_PlateAdditive",
+                    "Base": "T_Plate",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperPlate"
+                },
+                {
+                    "AddMask": "T_PlateAdditive",
+                    "Base": "T_Plate",
+                    "MulMask": "T_Steel",
+                    "NewName": "T_SteelPlate"
+                },
+                {
+                    "AddMask": "T_PlateAdditive",
+                    "Base": "T_Plate",
+                    "MulMask": "T_Aluminium",
+                    "NewName": "T_AluminiumPlate"
+                },
+                {
+                    "AddMask": "T_PlateAdditive",
+                    "Base": "T_Plate",
+                    "MulMask": "T_StainlessSteel",
+                    "NewName": "T_StainlessSteelPlate"
+                },
+                {
+                    "AddMask": "T_PlateAdditive",
+                    "Base": "T_Plate",
+                    "MulMask": "T_Titanium",
+                    "NewName": "T_TitaniumPlate"
+                },
+                {
+                    "AddMask": "T_PlateAdditive",
+                    "Base": "T_Plate",
+                    "MulMask": "T_HardMetal",
+                    "NewName": "T_HardMetalPlate"
+                },
+                {
+                    "AddMask": "T_PlateAdditive",
+                    "Base": "T_Plate",
+                    "MulMask": "T_Neutronium",
+                    "NewName": "T_NeutroniumPlate"
+                },
+                {
+                    "AddMask": "T_PartsAdditive",
+                    "Base": "T_Parts",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperParts"
+                },
+                {
+                    "AddMask": "T_PartsAdditive",
+                    "Base": "T_Parts",
+                    "MulMask": "T_Steel",
+                    "NewName": "T_SteelParts"
+                },
+                {
+                    "AddMask": "T_PartsAdditive",
+                    "Base": "T_Parts",
+                    "MulMask": "T_Aluminium",
+                    "NewName": "T_AluminiumParts"
+                },
+                {
+                    "AddMask": "T_PartsAdditive",
+                    "Base": "T_Parts",
+                    "MulMask": "T_StainlessSteel",
+                    "NewName": "T_StainlessSteelParts"
+                },
+                {
+                    "AddMask": "T_PartsAdditive",
+                    "Base": "T_Parts",
+                    "MulMask": "T_Titanium",
+                    "NewName": "T_TitaniumParts"
+                },
+                {
+                    "AddMask": "T_PartsAdditive",
+                    "Base": "T_Parts",
+                    "MulMask": "T_HardMetal",
+                    "NewName": "T_HardMetalParts"
+                },
+                {
+                    "AddMask": "T_PartsAdditive",
+                    "Base": "T_Parts",
+                    "MulMask": "T_Neutronium",
+                    "NewName": "T_NeutroniumParts"
+                },
+                {
+                    "AddMask": "T_CasingAdditive",
+                    "Base": "T_Casing",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperCasing"
+                },
+                {
+                    "AddMask": "T_CasingAdditive",
+                    "Base": "T_Casing",
+                    "MulMask": "T_Steel",
+                    "NewName": "T_SteelCasing"
+                },
+                {
+                    "AddMask": "T_CasingAdditive",
+                    "Base": "T_Casing",
+                    "MulMask": "T_Aluminium",
+                    "NewName": "T_AluminiumCasing"
+                },
+                {
+                    "AddMask": "T_CasingAdditive",
+                    "Base": "T_Casing",
+                    "MulMask": "T_StainlessSteel",
+                    "NewName": "T_StainlessSteelCasing"
+                },
+                {
+                    "AddMask": "T_CasingAdditive",
+                    "Base": "T_Casing",
+                    "MulMask": "T_Titanium",
+                    "NewName": "T_TitaniumCasing"
+                },
+                {
+                    "AddMask": "T_CasingAdditive",
+                    "Base": "T_Casing",
+                    "MulMask": "T_HardMetal",
+                    "NewName": "T_HardMetalCasing"
+                },
+                {
+                    "AddMask": "T_CasingAdditive",
+                    "Base": "T_Casing",
+                    "MulMask": "T_Neutronium",
+                    "NewName": "T_NeutroniumCasing"
+                },
+                {
+                    "AddMask": "T_IngotAdditive",
+                    "Base": "T_Ingot",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperIngot"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperDust"
+                },
+                {
+                    "AddMask": "T_IngotAdditive",
+                    "Base": "T_Ingot",
+                    "MulMask": "T_Gold",
+                    "NewName": "T_GoldIngot"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Gold",
+                    "NewName": "T_GoldBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Gold",
+                    "NewName": "T_GoldDust"
+                },
+                {
+                    "AddMask": "T_IngotAdditive",
+                    "Base": "T_Ingot",
+                    "MulMask": "T_Superconductor",
+                    "NewName": "T_SuperconductorIngot"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Superconductor",
+                    "NewName": "T_SuperconductorBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Superconductor",
+                    "NewName": "T_SuperconductorDust"
+                },
+                {
+                    "AddMask": "T_IngotAdditive",
+                    "Base": "T_Ingot",
+                    "MulMask": "T_Iron",
+                    "NewName": "T_IronIngot"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Iron",
+                    "NewName": "T_IronBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Iron",
+                    "NewName": "T_IronDust"
+                },
+                {
+                    "AddMask": "T_IngotAdditive",
+                    "Base": "T_Ingot",
+                    "MulMask": "T_Steel",
+                    "NewName": "T_SteelIngot"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Steel",
+                    "NewName": "T_SteelBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Steel",
+                    "NewName": "T_SteelDust"
+                },
+                {
+                    "AddMask": "T_IngotAdditive",
+                    "Base": "T_Ingot",
+                    "MulMask": "T_Aluminium",
+                    "NewName": "T_AluminiumIngot"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Aluminium",
+                    "NewName": "T_AluminiumBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Aluminium",
+                    "NewName": "T_AluminiumDust"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_AluminiumOxide",
+                    "NewName": "T_AluminiumOxideBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_AluminiumOxide",
+                    "NewName": "T_AluminiumOxideDust"
+                },
+                {
+                    "AddMask": "T_IngotAdditive",
+                    "Base": "T_Ingot",
+                    "MulMask": "T_StainlessSteel",
+                    "NewName": "T_StainlessSteelIngot"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_StainlessSteel",
+                    "NewName": "T_StainlessSteelBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_StainlessSteel",
+                    "NewName": "T_StainlessSteelDust"
+                },
+                {
+                    "AddMask": "T_IngotAdditive",
+                    "Base": "T_Ingot",
+                    "MulMask": "T_Titanium",
+                    "NewName": "T_TitaniumIngot"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Titanium",
+                    "NewName": "T_TitaniumBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Titanium",
+                    "NewName": "T_TitaniumDust"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_TitaniumTetrachloride",
+                    "NewName": "T_TitaniumTetrachloride"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_TitaniumOxide",
+                    "NewName": "T_TitaniumOxideDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_PreparedTitaniumOxide",
+                    "NewName": "T_PreparedTitaniumOxideDust"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Zink",
+                    "NewName": "T_ZinkBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Zink",
+                    "NewName": "T_ZinkDust"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Lithium",
+                    "NewName": "T_LithiumBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Lithium",
+                    "NewName": "T_LithiumDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Tungsten",
+                    "NewName": "T_TungstenDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_TungstenOxide",
+                    "NewName": "T_TungstenOxideDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_TungstenCarbide",
+                    "NewName": "T_TungstenCarbideDust"
+                },
+                {
+                    "AddMask": "T_IngotAdditive",
+                    "Base": "T_Ingot",
+                    "MulMask": "T_HardMetal",
+                    "NewName": "T_HardMetalIngot"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_HardMetal",
+                    "NewName": "T_HardMetalBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_HardMetal",
+                    "NewName": "T_HardMetalDust"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Cobalt",
+                    "NewName": "T_CobaltBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Cobalt",
+                    "NewName": "T_CobaltDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_CobaltOxide",
+                    "NewName": "T_CobaltOxideDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Cement",
+                    "NewName": "T_CementDust"
+                },
+                {
+                    "AddMask": "T_IngotAdditive",
+                    "Base": "T_Ingot",
+                    "MulMask": "T_Neutronium",
+                    "NewName": "T_NeutroniumIngot"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Neutronium",
+                    "NewName": "T_NeutroniumDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Chromium",
+                    "NewName": "T_ChromiumDust"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Plutonium",
+                    "NewName": "T_PlutoniumBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Plutonium",
+                    "NewName": "T_PlutoniumDust"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Uranium",
+                    "NewName": "T_UraniumBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Uranium",
+                    "NewName": "T_UraniumDust"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Uranium235",
+                    "NewName": "T_Uranium235Block"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Uranium235",
+                    "NewName": "T_Uranium235Dust"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Uranium233",
+                    "NewName": "T_Uranium233Block"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Uranium233",
+                    "NewName": "T_Uranium233Dust"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Thorium",
+                    "NewName": "T_ThoriumBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Thorium",
+                    "NewName": "T_ThoriumDust"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Sodium",
+                    "NewName": "T_SodiumBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Sodium",
+                    "NewName": "T_SodiumDust"
+                },
+                {
+                    "AddMask": "T_BlockAdditive",
+                    "Base": "T_Block",
+                    "MulMask": "T_Potassium",
+                    "NewName": "T_PotassiumBlock"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Potassium",
+                    "NewName": "T_PotassiumDust"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Steam",
+                    "NewName": "T_Steam"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Chlorine",
+                    "NewName": "T_Chlorine"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Creosote",
+                    "NewName": "T_Creosote"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_ProducerGas",
+                    "NewName": "T_ProducerGas"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_CarbonMonoxide",
+                    "NewName": "T_CarbonMonoxide"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Ash",
+                    "NewName": "T_AshDust"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Hydrogen",
+                    "NewName": "T_Hydrogen"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Methane",
+                    "NewName": "T_Methane"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Ethylene",
+                    "NewName": "T_Ethylene"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Water",
+                    "NewName": "T_Water"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Biomass",
+                    "NewName": "T_Biomass"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_OreWater",
+                    "NewName": "T_OreWater"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_SulfuricAcid",
+                    "NewName": "T_SulfuricAcid"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_RawOil",
+                    "NewName": "T_RawOil"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_MineralWater",
+                    "NewName": "T_MineralWater"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Gasoline",
+                    "NewName": "T_Gasoline"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_HeavyOil",
+                    "NewName": "T_HeavyOil"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Oxygen",
+                    "NewName": "T_Oxygen"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Nitrogen",
+                    "NewName": "T_Nitrogen"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_ChromiumOxide",
+                    "NewName": "T_ChromiumOxideDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_PotassiumChloride",
+                    "NewName": "T_PotassiumChlorideDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Beryllium",
+                    "NewName": "T_BerylliumDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Yttrium",
+                    "NewName": "T_YttriumDust"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Helium",
+                    "NewName": "T_Helium"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Salt",
+                    "NewName": "T_SaltDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Cinnabar",
+                    "NewName": "T_CinnabarDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Malachite",
+                    "NewName": "T_MalachiteDust"
+                },
+                {
+                    "AddMask": "T_Additive",
+                    "Base": "T_",
+                    "MulMask": "T_Mercury",
+                    "NewName": "T_Mercury"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Boron",
+                    "NewName": "T_BoronDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Borax",
+                    "NewName": "T_BoraxDust"
+                },
+                {
+                    "AddMask": "T_DustAdditive",
+                    "Base": "T_Dust",
+                    "MulMask": "T_Emerald",
+                    "NewName": "T_EmeraldDust"
+                },
+                {
+                    "AddMask": "T_MultitoolAdditive",
+                    "Base": "T_Multitool",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperMultitool"
+                },
+                {
+                    "AddMask": "T_MultitoolAdditive",
+                    "Base": "T_Multitool",
+                    "MulMask": "T_Steel",
+                    "NewName": "T_SteelMultitool"
+                },
+                {
+                    "AddMask": "T_MultitoolAdditive",
+                    "Base": "T_Multitool",
+                    "MulMask": "T_Aluminium",
+                    "NewName": "T_AluminiumMultitool"
+                },
+                {
+                    "AddMask": "T_MultitoolAdditive",
+                    "Base": "T_Multitool",
+                    "MulMask": "T_StainlessSteel",
+                    "NewName": "T_StainlessSteelMultitool"
+                },
+                {
+                    "AddMask": "T_MultitoolAdditive",
+                    "Base": "T_Multitool",
+                    "MulMask": "T_Titanium",
+                    "NewName": "T_TitaniumMultitool"
+                },
+                {
+                    "AddMask": "T_MultitoolAdditive",
+                    "Base": "T_Multitool",
+                    "MulMask": "T_HardMetal",
+                    "NewName": "T_HardMetalMultitool"
+                },
+                {
+                    "AddMask": "T_MultitoolAdditive",
+                    "Base": "T_Multitool",
+                    "MulMask": "T_Neutronium",
+                    "NewName": "T_NeutroniumMultitool"
+                },
+                {
+                    "AddMask": "T_ScrewdriverAdditive",
+                    "Base": "T_Screwdriver",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperScrewdriver"
+                },
+                {
+                    "AddMask": "T_PaintToolAdditive",
+                    "Base": "T_PaintTool",
+                    "MulMask": "T_Copper",
+                    "NewName": "T_CopperPaintTool"
+                }
+            ],
+            "Name": "PartsIcoGenerator"
+        }
+    ]
+}

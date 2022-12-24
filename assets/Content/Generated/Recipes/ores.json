@@ -1,0 +1,1409 @@
+{
+    "Objects": [
+        {
+            "Class": "RecipeDictionary",
+            "Name": "Macerator",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperImpureOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "CopperImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDust"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDust",
+                                "split": 2
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDust"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDust",
+                                "split": 2
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronImpureOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "IronImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDust"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDust",
+                                "split": 2
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDust"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDust",
+                                "split": 2
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumImpureOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreDust"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreDust",
+                                "split": 2
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreDust"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreDust",
+                                "split": 2
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumImpureOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDust"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDust",
+                                "split": 2
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDust"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDust",
+                                "split": 2
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "RecipeDictionary",
+            "Name": "Smelter",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOre"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOre",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperIngot"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "Tier": -1
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDust"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperIngot"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Heat"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperImpureOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "CopperImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperIngot"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Heat"
+                    },
+                    "Ticks": 300,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperIngot"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Heat"
+                    },
+                    "Ticks": 300,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOre"
+                            }
+                        ]
+                    },
+                    "Name": "IronOre",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronIngot"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Heat"
+                    },
+                    "Ticks": 400,
+                    "Tier": -1
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDust"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronIngot"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Heat"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronImpureOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "IronImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronIngot"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Heat"
+                    },
+                    "Ticks": 300,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronIngot"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Heat"
+                    },
+                    "Ticks": 300,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "RecipeDictionary",
+            "Name": "OreWasher",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperImpureOreGravel"
+                            },
+                            {
+                                "Count": 250,
+                                "Name": "Water"
+                            }
+                        ]
+                    },
+                    "Name": "CopperImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreGravel"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "GoldDust",
+                                "split": 10
+                            },
+                            {
+                                "Capacity": 32000,
+                                "Count": 50,
+                                "Name": "OreWater"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 130,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronImpureOreGravel"
+                            },
+                            {
+                                "Count": 250,
+                                "Name": "Water"
+                            }
+                        ]
+                    },
+                    "Name": "IronImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreGravel"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "ChromiumOxideDust",
+                                "split": 10
+                            },
+                            {
+                                "Capacity": 32000,
+                                "Count": 50,
+                                "Name": "OreWater"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 130,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumImpureOreGravel"
+                            },
+                            {
+                                "Count": 250,
+                                "Name": "Water"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreGravel"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "Uranium235Dust",
+                                "split": 20
+                            },
+                            {
+                                "Capacity": 32000,
+                                "Count": 50,
+                                "Name": "OreWater"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 130,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumImpureOreGravel"
+                            },
+                            {
+                                "Count": 250,
+                                "Name": "Water"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreGravel"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "TitaniumOxideDust",
+                                "split": 10
+                            },
+                            {
+                                "Capacity": 32000,
+                                "Count": 50,
+                                "Name": "OreWater"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 130,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "RecipeDictionary",
+            "Name": "Separator",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDust"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 20,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 100,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDust"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 20,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 100,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreDust"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumDust",
+                                "split": 20
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 20,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 100,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDust"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOxideDust"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 20,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 100,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "RecipeDictionary",
+            "Name": "IndustrialSeparator",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDust"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperDust"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "GoldDust",
+                                "split": 10
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDust"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronDust"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "ChromiumOxideDust",
+                                "split": 10
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreDust"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumDust"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "Uranium235Dust",
+                                "split": 20
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDust"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOxideDust"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "TitaniumOxideDust",
+                                "split": 10
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "RecipeDictionary",
+            "Name": "AutomaticHammer",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOre"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOre",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperImpureOreGravel"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CopperImpureOreGravel",
+                                "split": 2
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 12.0,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 225.0,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOre"
+                            }
+                        ]
+                    },
+                    "Name": "IronOre",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronImpureOreGravel"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "IronImpureOreGravel",
+                                "split": 2
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 16,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 300,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOre"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumOre",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumImpureOreGravel"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniumImpureOreGravel",
+                                "split": 2
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 16,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 300,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOre"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumOre",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumImpureOreGravel"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumImpureOreGravel",
+                                "split": 2
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 16,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 300,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "RecipeDictionary",
+            "Name": "ArcSmelter",
+            "Recipes": []
+        },
+        {
+            "Class": "RecipeDictionary",
+            "Name": "Sifter",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDust",
+                                "split": 2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "MalachiteCrystal",
+                                "split": 5
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "MalachiteCluster",
+                                "split": 40
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 40,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperImpureOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "CopperImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDust",
+                                "split": 2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "MalachiteCrystal",
+                                "split": 5
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "MalachiteCluster",
+                                "split": 40
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 40,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDust",
+                                "split": 2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CinnabarCrystal",
+                                "split": 5
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CinnabarCluster",
+                                "split": 40
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 40,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronImpureOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "IronImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDust",
+                                "split": 2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CinnabarCrystal",
+                                "split": 5
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CinnabarCluster",
+                                "split": 40
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 40,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ThoriumDust",
+                                "split": 2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniniteCrystal",
+                                "split": 5
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniniteCluster",
+                                "split": 40
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 40,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumImpureOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ThoriumDust",
+                                "split": 2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniniteCrystal",
+                                "split": 5
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniniteCluster",
+                                "split": 40
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 40,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDust",
+                                "split": 2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "RutileCrystal",
+                                "split": 5
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "Emerald",
+                                "split": 40
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 40,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumImpureOreGravel"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDust",
+                                "split": 2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "RutileCrystal",
+                                "split": 5
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "Emerald",
+                                "split": 40
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "Kinetic"
+                    },
+                    "Ticks": 40,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "RecipeDictionary",
+            "Name": "Multitool",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOre"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOre"
+                            }
+                        ]
+                    },
+                    "Ticks": 30.0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOre"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOre"
+                            }
+                        ]
+                    },
+                    "Ticks": 40
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOre"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumOreBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOre"
+                            }
+                        ]
+                    },
+                    "Ticks": 40
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOre"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumOreBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOre"
+                            }
+                        ]
+                    },
+                    "Ticks": 40
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CoalOre"
+                            }
+                        ]
+                    },
+                    "Name": "CoalOreBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Coal"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ClayOre"
+                            }
+                        ]
+                    },
+                    "Name": "ClayOreBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "Clay"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                }
+            ],
+            "Ticks": 20,
+            "UsedIn": [
+                {
+                    "Item": "Multitool",
+                    "Tier": 0
+                }
+            ]
+        }
+    ]
+}
